@@ -31,7 +31,6 @@ The following steps are automatically runned withing gitpod, if you are doing a 
 ```sh
 pipenv shell #initialize the virtual enviroment
 pipenv install;
-pipenv run init;
 pipenv run migrate;
 pipenv run upgrade;
 ```
