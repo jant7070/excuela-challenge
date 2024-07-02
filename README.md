@@ -1,10 +1,7 @@
-<a href="https://www.breatheco.de"><img height="280" align="right" src="https://github.com/4GeeksAcademy/flask-rest-hello/blob/main/docs/assets/badge.png?raw=true"></a>
+# Excuela Flask API Challenge </br>by Jose Morilo👓
 
-# Flask Boilerplate for Junior Developers
+Boilerplate desciption
 
-Create flask API's in minutes, [📹 watch the video tutorial](https://youtu.be/ORxQ-K3BzQA).
-
-- [Extensive documentation here](https://start.4geeksacademy.com).
 - Integrated with Pipenv for package managing.
 - Fast deloyment to render.com or heroku with `$ pipenv run deploy`.
 - Use of `.env` file.
